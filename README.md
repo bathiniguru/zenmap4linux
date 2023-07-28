@@ -9,5 +9,6 @@ Open Terminal in project folder path.
 type below commands.
 
 chmod 777 install.sh
+
 ./install.sh
 
